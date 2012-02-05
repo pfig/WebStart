@@ -1,0 +1,20 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Name: Pedro Figueiredo
+  Site: http://pedrofigueiredo.org/
+  Twitter: @pfig
+  Location: London, UK
+
+/* THANKS */
+  Name: Twitter, for Bootstrap (http://twitter.github.com/bootstrap/)
+  Name: HTML 5 Boilerplate (http://html5boilerplate.com/)
+  Name: Initializr (http://www.initializr.com/)
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Bootstrap, jQuery, HTML5 Boilerplate, Initializr
+  Software: LESS, Espresso, Sublime Text 2
+  
